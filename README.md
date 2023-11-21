@@ -9,12 +9,6 @@ A calender to manage you're dailey activities. hour by hour. you have never been
 - *Task Management*: Add, edit, and remove task descriptions.
 - *Local Storage*: Your schedule is saved locally for convenience.
 
-## Getting Started
-
-1. Clone the repository to your local machine:
-
-   ```bash
-   git clone git@github.com:JCovi/workday-calendar.git
 
 ## Acknowledgments
 
@@ -24,8 +18,8 @@ A calender to manage you're dailey activities. hour by hour. you have never been
 
 ## Deployment
 
-- *Deployed Application*: [Work Day Scheduler App](https://jcovi.github.io/workday-calendar/)
-- *GitHub Repository*: [Work Day Scheduler Repository](https://github.com/JCovi/workday-calendar)
+- *Deployed Application*: 
+- *GitHub Repository*: https://github.com/zchamber/task-manager
 
 ## Contributing
 
