@@ -18,7 +18,7 @@ A calender to manage you're dailey activities. hour by hour. you have never been
 
 ## Deployment
 
-- *Deployed Application*: 
+- *Deployed Application*: https://zchamber.github.io/task-manager/
 - *GitHub Repository*: https://github.com/zchamber/task-manager
 
 ## Contributing
