@@ -4,22 +4,39 @@ A calender to manage you're dailey activities. hour by hour. you have never been
 
 ## Features
 
-- *Real-time Date and Time Display*: Always know the current date and time.
-- *Color-Coded Time Blocks*: Easily identify past, present, and future events.
-- *Task Management*: Add, edit, and remove task descriptions.
-- *Local Storage*: Your schedule is saved locally for convenience.
+- Display current weather information (temperature, humidity, wind speed) for a given city.
+- Show a 5-day forecast including temperature, humidity, and wind speed.
+- Keep track of the user's search history.
+- Click on a city from the search history to view its weather details again.
 
 
-## Acknowledgments
+## Technologies Used
 
-- Special thanks to [Bootstrap](https://getbootstrap.com/) for the front-end framework.
-- [Font Awesome](https://fontawesome.com/) for icons.
-- [Day.js](https://day.js.org/) for date and time functionality.
+HTML
+CSS
+JavaScript (ES6+)
+OpenWeatherMap API
+
+## Setup 
+1. Clone the repository: https://github.com/zchamber/weather-dashboard
+git clone 
+
+2. Open the index.html file in your web browser.
+
+3. Obtain an API key from OpenWeatherMap and replace 'YOUR_API_KEY' in the JavaScript code with your actual API key.
+
+## Usage
+1. Enter the name of a city in the input field.
+
+2. Click the "Search" button to fetch and display the current weather and 5-day forecast.
+
+3. Click on a city in the search history to view its weather details again.
+
 
 ## Deployment
 
-- *Deployed Application*: https://zchamber.github.io/task-manager/
-- *GitHub Repository*: https://github.com/zchamber/task-manager
+- *Deployed Application*: 
+- *GitHub Repository*: https://github.com/zchamber/weather-dashboard
 
 ## Contributing
 
